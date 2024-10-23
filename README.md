@@ -32,7 +32,7 @@ While the program may be used to assess the security of roblox executor, it shou
     <br/>
     <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox/releases/tag/wave-executor-roblox">Download</a>
     .
-    <a href="https://github.com/CheatsHelp/Wave-Executor-Roblox">Site</a>
+    <a href="https://github.com/RoblExploits/wave-executor-roblox">Site</a>
   </p>
 </p>
 
